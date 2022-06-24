@@ -1,0 +1,448 @@
+body{
+background: #edede3;
+padding: !important;
+}
+
+.header1_main{
+position: absolute;
+width: 343px;
+height: 48px;
+left: 300px;
+top: 236px;
+font-weight: 400;
+font-size: 45px;
+}
+
+.header2_main{
+position: absolute;
+width: 154px;
+height: 31px;
+left: 300px;
+top: 300px;
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 40px;
+color: #1B1A17;
+}
+
+.header_main{
+position: absolute;
+width: 408px;
+height: 95px;
+left: 120px;
+top: 236px;
+}
+
+.watch_main{
+position: absolute;
+left: 855px;
+top: 39px;
+}
+
+.Line{
+position: absolute;
+width: 50px;
+height: 0px;
+left: 120px;
+top: 279.14px;
+border: 1px solid #8B8371;
+}
+
+.descript{
+position: absolute;
+width: 258px;
+height: 33.54px;
+left: 300px;
+top: 375.8px;
+line-height: 21px;
+}
+
+.button_1{
+position: absolute;
+width: 224px;
+height: 78.13px;
+left: 300px;
+top: 472.46px;
+background: #444240;
+color: white;
+}
+
+.icons_header{
+position: absolute;
+left: 1651px;
+top: 31.37px;
+}
+
+.Vector{
+height: 20.78px;
+}
+
+.icons_1{
+position: absolute;
+width: 18px;
+height: 73.98px;
+left: 55px;
+top: 352.13px;
+}
+
+.facebook{
+left: 4.32%;
+right: 95.02%;
+bottom: 87.34%;
+}
+
+.twit{
+left: 4.1%;
+right: 94.66%;
+}
+
+.Ellipse{
+position: absolute;
+width: 613px;
+height: 803px;
+left: 537px;
+top: -4px;
+}
+
+.MENU{
+box-sizing: border-box;
+position: absolute;
+width: 18px;
+height: 16px;
+left: 55px;
+top: 35px;
+}
+
+.logo{
+position: absolute;
+width: 103.68px;
+height: 26px;
+left: 97px;
+top: 31px;
+}
+
+.Line{
+position: absolute;
+width: 50px;
+height: 0px;
+left: 238px;
+top: 290px;
+}
+
+.Dia{
+position: absolute;
+width: 50px;
+height: 2px;
+left: 1232px;
+top: 695px;
+}
+
+.Rub{
+position: absolute;
+width: 50px;
+height: 2px;
+left: 923px;
+top: 153px;
+}
+
+.Dia1{
+position: absolute;
+width: 146px;
+height: 2px;
+left: 1293px;
+top: 655px;
+font-weight: 400;
+font-size: 20px;
+}
+
+.Rub1{
+position: absolute;
+left: 844px;
+top: 116px;
+font-weight: 400;
+font-size: 20px;
+}
+
+.Rub2{
+position: absolute;
+left: 899px;
+top: 148px;
+font-weight: 400;
+font-size: 20px;
+}
+
+.watches_1{
+position: absolute;
+left: 75px;
+top: 935px
+}
+
+.watches_2{
+position: absolute;
+left: 690px;
+top: 935px
+}
+
+.watches_3{
+position: absolute;
+left: 74px;
+top: 1675px;
+}
+
+.watches_4{
+position: absolute;
+left: 983px;
+top: 1668px;
+}
+
+.watches_t1{
+position: absolute;
+left: 184px;
+top: 1536px;
+font-weight: 400;
+font-size: 20px;
+}
+
+.watches_t2{
+position: absolute;
+left: 853px;
+top: 1525px;
+font-weight: 400;
+font-size: 20px;
+}
+
+.watches_t3{
+position: absolute;
+left: 182px;
+top: 1919px;
+font-weight: 400;
+font-size: 20px;
+}
+
+.watches_t4{
+position: absolute;
+left: 1091px;
+top: 1915px;
+font-weight: 400;
+font-size: 20px;
+}
+
+.header_2screen{
+position: absolute;
+width: 306px;
+height: 36px;
+left: 823px;
+top: 833px;
+font-weight: 400;
+font-size: 34px;
+line-height: 43px;
+}
+
+.wse{
+position: absolute;
+width: 104px;
+height: 15px;
+left: 1564px;
+top: 858px;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+}
+
+.Line_wse{
+position: absolute;
+width: 95px;
+height: 2px;
+left: 1564px;
+top: 894px;
+}
+
+.photo_banner{
+position: absolute;
+left: 270px;
+top: 2165px;
+}
+
+.banner{
+position: absolute;
+left: -134px;
+top: 2084px;
+}
+
+.arrow_left{
+position: absolute;
+left: 601px;
+top: 2820px;
+}
+
+.arrow_right{
+position: absolute;
+left: 645px;
+top: 2820px;
+}
+
+.arrow{
+position: absolute;
+left: 619px;
+top: 2798px;
+font-weight: 400;
+font-size: 20px;
+}
+
+.header_banner{
+position: absolute;
+left: 1252px;
+top: 2243px;
+font-weight: 400;
+font-size: 60px;
+}
+
+.decript_banner{
+position: absolute;
+left: 1242px;
+top: 2406px;
+font-weight: 400;
+font-size: 27px;
+}
+
+.button_2{
+position: absolute;
+width: 224px;
+height: 78.13px;
+left: 1335px;
+top: 2700px;
+background: #d4b098;
+color: white;
+}
+
+.photo_1{
+position: absolute;
+left: 914px;
+top: 2932px;
+}
+
+.photo_2{
+position: absolute;
+left: 913px;
+top: 3290px;
+}
+
+.photo_3{
+position: absolute;
+left: 1300px;
+top: 2934px;
+}
+
+.header_3screen{
+position: absolute;
+left: 111px;
+top: 3043px;
+font-weight: 400;
+font-size: 50px;
+}
+
+.decript_3screen{
+position: absolute;
+left: 105px;
+top: 3187px;
+font-weight: 400;
+font-size: 30px;
+}
+
+.insta_fasebok_tvit{
+position: absolute;
+width: 93px;
+height: 24px;
+left: 395px;
+top: 3311px;
+}
+
+.footer3{
+box-sizing: border-box;
+position: absolute;
+width: 1904px;
+height: 375px;
+left: 0px;
+top: 3721px;
+background: #444240;
+}
+
+.logo_footer{
+position: absolute;
+width: 103.68px;
+height: 26px;
+left: 97px;
+top: 70px;
+}
+
+.contacts{
+position: absolute;
+width: 160px;
+height: 35px;
+left: 83px;
+top: 90px;
+color: white;
+font-size: 20px;
+}
+
+.about1{
+position: absolute;
+width: 160px;
+height: 35px;
+left: 1000px;
+top: 40px;
+color: white;
+font-size: 30px;
+}
+
+.about2{
+position: absolute;
+width: 160px;
+height: 35px;
+left: 1000px;
+top: 90px;
+color: white;
+font-size: 20px;
+}
+
+.for_buyers1{
+position: absolute;
+width: 160px;
+height: 35px;
+left: 500px;
+top: 40px;
+color: white;
+font-size: 30px;
+}
+
+.for_buyers2{
+position: absolute;
+width: 160px;
+height: 35px;
+left: 500px;
+top: 90px;
+color: white;
+font-size: 20px;
+}
+
+.payment_and_delivery1{
+position: absolute;
+width: 240px;
+height: 35px;
+left: 1600px;
+top: 36px;
+color: white;
+font-size: 30px;
+}
+
+.payment_and_delivery2{
+position: absolute;
+width: 240px;
+height: 35px;
+left: 1600px;
+top: 90px;
+color: white;
+font-size: 20px;
+}
